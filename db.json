@@ -1,11 +1,10 @@
 {
-  "posts": [
+  "events": [
     {
-      "id": 1,
-      "title": "hello"
+      "message": "Message here",
+      "icon": "info",
+      "language": "en",
+      "eventName": "Black Friday"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
