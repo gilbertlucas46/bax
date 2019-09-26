@@ -4,7 +4,8 @@
       "message": "Message here",
       "icon": "info",
       "language": "en",
-      "eventName": "Black Friday"
+      "eventName": "Black Friday",
+      "published": true
     }
   ]
 }
