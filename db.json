@@ -1,9 +1,54 @@
 {
-  "events": [
+  "nl_BE": [
     {
-      "message": "Message here",
+      "message": "Message goes here...",
       "icon": "info",
-      "language": "en",
+      "language": "nl_BE",
+      "type": "all, brand, category",
+      "eventName": "Black Friday",
+      "published": true,
+      "color": "#de350b",
+      "backgroundColor": "#ffffff"
+    }
+  ],
+  "en_GB": [
+    {
+      "message": "Message goes here...",
+      "icon": "info",
+      "language": "en_GB",
+      "type": "all, brand, category",
+      "eventName": "Black Friday",
+      "published": true,
+      "color": "#de350b",
+      "backgroundColor": "#ffffff"
+    }
+  ],
+  "es_ES": [
+    {
+      "message": "Message goes here...",
+      "icon": "info",
+      "language": "es_ES",
+      "type": "all, brand, category",
+      "eventName": "Black Friday",
+      "published": true,
+      "color": "#de350b",
+      "backgroundColor": "#ffffff"
+    }
+  ],
+  "fr_FR": [
+    {
+      "message": "Message goes here...",
+      "icon": "info",
+      "language": "sv_SE",
+      "eventName": "Black Friday",
+      "published": true
+    }
+  ],
+  "it_IT": [
+    {
+      "message": "Message goes here...",
+      "icon": "info",
+      "language": "sv_SE",
       "eventName": "Black Friday",
       "published": true
     }
