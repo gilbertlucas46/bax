@@ -39,24 +39,18 @@
     {
       "message": "Message goes here...",
       "icon": "info",
-      "language": "fr_FR",
-      "type": "all, brand, category",
+      "language": "sv_SE",
       "eventName": "Black Friday",
-      "published": true,
-      "color": "#de350b",
-      "backgroundColor": "#ffffff"
+      "published": true
     }
   ],
   "it_IT": [
     {
       "message": "Message goes here...",
       "icon": "info",
-      "language": "it_IT",
-      "type": "all, brand, category",
+      "language": "sv_SE",
       "eventName": "Black Friday",
-      "published": true,
-      "color": "#de350b",
-      "backgroundColor": "#ffffff"
+      "published": true
     }
   ],
   "sv_SE": [
@@ -64,11 +58,8 @@
       "message": "Message goes here...",
       "icon": "info",
       "language": "sv_SE",
-      "type": "all, brand, category",
       "eventName": "Black Friday",
-      "published": true,
-      "color": "#de350b",
-      "backgroundColor": "#ffffff"
+      "published": true
     }
   ]
 }
