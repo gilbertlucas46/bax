@@ -52,14 +52,5 @@
       "eventName": "Black Friday",
       "published": true
     }
-  ],
-  "sv_SE": [
-    {
-      "message": "Message goes here...",
-      "icon": "info",
-      "language": "sv_SE",
-      "eventName": "Black Friday",
-      "published": true
-    }
   ]
 }
