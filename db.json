@@ -33,11 +33,4 @@
     "type": "all, brand, category",
     "eventName": "Black Friday"
   },
-  "it_IT": {
-    "message": "Message goes here...",
-    "icon": "info",
-    "language": "nl_BE",
-    "type": "all, brand, category",
-    "eventName": "Black Friday"
-  }
 }
