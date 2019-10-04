@@ -1,10 +1,8 @@
 {
-  "style": [
-    {
-      "color": "#ffffff",
-      "backgroundColor": "#fa5623"
-    }
-  ],
+  "style": {
+    "color": "#ffffff",
+    "backgroundColor": "#fa5623"
+  },
   "nl_BE": {
     "message": "Message goes here...",
     "icon": "info",
