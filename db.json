@@ -1,36 +1,22 @@
 {
-  "style": [
-    {
-      "color": "#de350b",
-      "backgroundColor": "#ffffff"
-    }
-  ],
   "nl_BE": {
-    "message": "Message goes here...",
-    "icon": "info",
-    "language": "nl_BE",
-    "type": "all, brand, category",
-    "eventName": "Black Friday"
+    "id": 1570450714682,
+    "active": true,
+    "message": "Hello it's black Friday, it can take more time than usual to process your order. Our apologies"
   },
   "en_GB": {
-    "message": "Message goes here...",
-    "icon": "info",
-    "language": "nl_BE",
-    "type": "all, brand, category",
-    "eventName": "Black Friday"
+    "id": 1570450714683,
+    "active": true,
+    "message": "Hello it's black Friday, it can take more time than usual to process your order. Our apologies"
   },
   "es_ES": {
-    "message": "Message goes here...",
-    "icon": "info",
-    "language": "nl_BE",
-    "type": "all, brand, category",
-    "eventName": "Black Friday"
+    "id": 1570450714684,
+    "active": true,
+    "message": "Hello it's black Friday, it can take more time than usual to process your order. Our apologies"
   },
   "fr_FR": {
-    "message": "Message goes here...",
-    "icon": "info",
-    "language": "nl_BE",
-    "type": "all, brand, category",
-    "eventName": "Black Friday"
+    "id": 1570450714684,
+    "active": true,
+    "message": "Hello it's black Friday, it can take more time than usual to process your order. Our apologies"
   }
 }
